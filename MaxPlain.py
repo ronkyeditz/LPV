@@ -30,3 +30,7 @@ if __name__ == '__main__':
     
     average = parallel_reduction(data, find_average)
     print("Average:", average)
+    
+    
+    
+    #In parallel reduction, the idea is to divide the input data into smaller chunks and distribute them among multiple processors or threads that can work simultaneously.
